@@ -1,6 +1,6 @@
 # meal_app
 
-A new Flutter project.
+This is an app where you can find the receips of the foods according to your moods and can also set some filters on the receips.
 
 ## Getting Started
 
